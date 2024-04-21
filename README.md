@@ -12,6 +12,7 @@
 __Python scripting, Data Collection, Streamlit, API integration, Data Management using SQL__
 
 ### 📘 Overview
+
 #### 🌾Data Harvesting:
 * Utilizing the YouTube API to collect data such as video details, channel information, playlists, and comments.
 #### 📥 Data Storage:
@@ -41,6 +42,7 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 * pillow 👉 from PIL import Image
   
 ### 📘  Features
+
 #### 📚 Data Collection:
 * The data collection process involved retrieving various data points from YouTube using the YouTube Data API. Retrieve channel information, videos details, playlists and comments.
 #### 💾 Database Storage:
@@ -55,3 +57,7 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 * Click the "View Details" button to fetch and display channel information.
 * Click the "Upload to MySQL" button to store channel data in the SQL database.
 * Select Analysis and Visualization options from the sidebar menu to analyze and visualize data.
+
+### Contact
+
+EMAIL:gokulgokul@gmail.com
