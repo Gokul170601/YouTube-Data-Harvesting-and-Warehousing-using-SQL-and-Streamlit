@@ -32,7 +32,9 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 * Plotly
 
 ### 📚  Packages and Libraries
-* google-api-python-client 👉 import googleapiclient.discovery
+* google-api-python-client
+👉 import googleapiclient.discovery
+👉from googleapiclient.errors import HttpError
 * mysql-connector-python 👉 import mysql.connector
 * SQLAlchemy  👉 from sqlalchemy import create_engine
 * pandas 👉 import pandas as pd
