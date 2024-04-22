@@ -32,16 +32,23 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 * Plotly
 
 ### 📚  Packages and Libraries
-* google-api-python-client
-👉 import googleapiclient.discovery
+* google-api-python-client        
+👉 import googleapiclient.discovery        
 👉from googleapiclient.errors import HttpError
-* mysql-connector-python 👉 import mysql.connector
-* SQLAlchemy  👉 from sqlalchemy import create_engine
-* pandas 👉 import pandas as pd
-* streamlit  👉 import streamlit as st
-* streamlit_option_menu 👉 from streamlit_option_menu import option_menu
-* plotly 👉 import plotly.express as px
-* pillow 👉 from PIL import Image
+* mysql-connector-python        
+👉 import mysql.connector
+* SQLAlchemy                
+👉 from sqlalchemy import create_engine
+* pandas        
+👉 import pandas as pd
+* streamlit      
+👉 import streamlit as st
+* streamlit_option_menu        
+👉 from streamlit_option_menu import option_menu
+* plotly      
+👉 import plotly.express as px
+* pillow        
+👉 from PIL import Image
   
 ### 📘  Features
 
@@ -61,5 +68,5 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 * Select Analysis and Visualization options from the sidebar menu to analyze and visualize data.
 
 ### Contact
-LINKEDIN :  www.linkedin.com/in/gokul-m-j17
+LINKEDIN :  www.linkedin.com/in/gokul-m-j17/           
 EMAIL:gokulgokul6847@gmail.com
