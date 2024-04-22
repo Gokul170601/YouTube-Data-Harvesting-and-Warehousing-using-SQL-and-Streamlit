@@ -61,5 +61,5 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 * Select Analysis and Visualization options from the sidebar menu to analyze and visualize data.
 
 ### Contact
-
-EMAIL:gokulgokul@gmail.com
+LINKEDIN :  www.linkedin.com/in/gokul-m-j17
+EMAIL:gokulgokul6847@gmail.com
