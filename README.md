@@ -67,6 +67,8 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 * Click the "Upload to MySQL" button to store channel data in the SQL database.
 * Select Analysis and Visualization options from the sidebar menu to analyze and visualize data.
 
+### Demo Video:
+ YT URL: https://youtu.be/qsHF35eShKk
 ### Contact
 LINKEDIN :  www.linkedin.com/in/gokul-m-j17/           
 EMAIL:gokulgokul6847@gmail.com
